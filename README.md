@@ -4,7 +4,9 @@ Not even ads can escape the Event Horizon. Follow along with "AK" (with help fro
 
 https://www.theundercroft.net/programming/adblocking
 
-![](images/poster.png)
+
+
+![](images/poster.png.jpg)
 ![](images/stickers.png)
 ![](images/methods.png)
 ![](images/dashboard.png)
