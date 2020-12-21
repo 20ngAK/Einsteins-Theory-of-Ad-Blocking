@@ -7,9 +7,4 @@ https://www.theundercroft.net/programming/adblocking
 
 
 ![](images/poster.png.jpg)
-![](images/stickers.png)
-![](images/methods.png)
-![](images/dashboard.png)
-![](images/dns.png)
-![](images/unbound.png)
-![](images/donate.png)
+![](images/slideck.png)
