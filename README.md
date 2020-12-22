@@ -11,5 +11,5 @@
 
 ![](images/poster.png.jpg)
 
-**Sample of slide deck, see PDF for full presentation!**
+<ins>**Sample of slide deck, see PDF for full presentation!**</ins>
 ![](images/final.png)
