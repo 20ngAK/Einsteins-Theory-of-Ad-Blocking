@@ -12,5 +12,8 @@
 
 ![](images/poster.png.jpg)
 
-<ins>**See PDF in repo for full slide deck!**</ins>
+<p align="center"
+   <i> **See PDF in repo for full slide deck!**</i>
+</p>
+
 ![](images/final.png)
