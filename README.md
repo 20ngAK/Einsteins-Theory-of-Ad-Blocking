@@ -2,7 +2,7 @@
 
 ![](images/undercroft.jpg)
 <p align="center">
-   <a href="#">https://www.theundercroft.net/programming/adblocking</a> 
+   <a href="https://www.theundercroft.net/programming/adblocking">https://www.theundercroft.net/programming/adblocking</a> 
    <br><br>
 </p>
 
