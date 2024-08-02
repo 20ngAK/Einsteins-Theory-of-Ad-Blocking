@@ -5,6 +5,7 @@
    <a href="https://www.theundercroft.net/programming/adblocking">https://www.theundercroft.net/programming/adblocking</a> 
    <br><br>
 </p>
+
 ![](images/uc_talk.png)
 
 <p align="center">
@@ -14,7 +15,7 @@
 ![](images/poster.png.jpg)
 
 <p align="center"
-   <b><ins>See PDF in repo for full slide deck.<ins></b>
+   ##<b><ins>See PDF in repo for full slide deck.<ins></b>
 </p>
 
 ![](images/final.png)
