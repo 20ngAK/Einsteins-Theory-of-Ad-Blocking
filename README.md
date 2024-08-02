@@ -1,6 +1,7 @@
 # Einstein's Theory of Ad Blocking
 
-## <b><ins>See copy of PDF in repo for full slide deck.<ins></b>
+
+## <center> <b><ins>See copy of PDF in repo for full slide deck.<ins></b></center>
 
 
 
