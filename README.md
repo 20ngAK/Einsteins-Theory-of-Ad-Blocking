@@ -15,5 +15,7 @@
 </p>
 
 ![](images/poster.png.jpg)
-![](images/uc_talk.png)
+<p align="center">
+   ![](images/uc_talk.png)
+</p>
 ![](images/final.png)
