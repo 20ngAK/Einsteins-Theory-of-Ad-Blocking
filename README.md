@@ -18,4 +18,6 @@
 <p align="center">
    <img src=/images/uc_talk.png />
 </p>
-![](images/final.png)
+<p align="center">
+   <img src=/images/final.png />
+</p>
