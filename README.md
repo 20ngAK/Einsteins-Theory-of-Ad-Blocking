@@ -1,7 +1,7 @@
 # Einstein's Theory of Ad Blocking
 ## <p align="center"
-   ## <b><ins>See copy of PDF in repo for full slide deck.<ins></b>
- ## </p>
+ ## <b><ins>See copy of PDF in repo for full slide deck.<ins></b>
+## </p>
 
 
 ![](images/undercroft.jpg)
