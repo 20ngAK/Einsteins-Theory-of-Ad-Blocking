@@ -16,6 +16,6 @@
 
 ![](images/poster.png.jpg)
 <p align="center">
-   ![](images/uc_talk.png)
+   <img src=/images/uc_talk.png />
 </p>
 ![](images/final.png)
